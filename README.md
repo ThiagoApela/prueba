@@ -1,1 +1,1 @@
-este proyecto es para Git 
+este proyecto es para Git de la clase de hoy
